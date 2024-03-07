@@ -21,7 +21,7 @@ You can customize the sketch to fit your specific needs. Here are a few things y
 - Add additional functionality or features to the sketch.
 - Use the available libraries and examples to extend the capabilities of your sketch.
 
-## Customizing the Sketch
+## Acknowledgments
 
 This code is copied from the platformIO website and can be found here: https://docs.platformio.org/en/latest/integration/ide/vscode.html#quick-start.
 
